@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "faker": "^4.1.0",
-    "handlebars": "^4.1.2",
+    "handlebars": "^4.3.0",
     "jquery": "^3.4.1",
     "validator": "^11.1.0"
   }
